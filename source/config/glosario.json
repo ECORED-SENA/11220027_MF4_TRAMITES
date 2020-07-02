@@ -1,0 +1,47 @@
+[
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Constitución",
+        "desciption": "Proceso de legalización de un negocio para operar legalmente en el mercado nacional e internacional."
+      }
+    ]
+  },
+  {
+    "letter": "D",
+    "terms": [
+      {
+        "title": "Documentos",
+        "desciption": "Registros utilizados para la constitución o formalización de una empresa."        
+      }
+    ]
+  }, 
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Formulario",
+        "desciption": "Manual documental para registrar información de una persona o empresa."
+      }
+    ]
+  },
+  {
+    "letter": "I",
+    "terms": [
+      {
+        "title": "Inscripción",
+        "desciption": "Proceso de registro de una empresa en la Cámara de Comercio."
+      }
+    ]
+  },
+  {
+    "letter": "S",
+    "terms": [
+      {
+        "title": "Sociedad",
+        "desciption": "Entidad empresarial de orden jurídico, que genera ingresos a través de la oferta de bienes y servicios."
+      }
+    ]
+  }
+]
